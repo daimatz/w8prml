@@ -13,7 +13,6 @@
 
 第2章 (2.1～2.2) 担当 @americiumian
 ----
-- [2.3 ガウス分布](http://www.slideshare.net/YuukiSaitoh/prml2-3)
 - [スライド](http://www.slideshare.net/TakutoKimura/prml21-22)
 
 2.3 担当 @sa__i
