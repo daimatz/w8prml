@@ -9,4 +9,4 @@ W8 PRML 読書会
 - [第4回まとめ](https://github.com/daimatz/w8prml/blob/master/files/2012-10-15/README.md)
 - [第4回募集ページ](http://partake.in/events/45683e09-bde4-451b-bcac-ad827dfa17a6)
 
-- [演習問題解答集](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/README.md)
+- [演習問題解答集](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/)
