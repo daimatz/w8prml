@@ -6,10 +6,10 @@
 
 - 回答へのリンクが張られます
 - [演習1.17-1.19](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex1.17-1.19.pdf?raw=true)
-- [演習1.28-1.29](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/prml1.28,29.pdf?raw=true)
-- [演習1.34](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/PRML-1.34.pdf?raw=true)
-- [演習1.35](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex1-35.pdf?raw=true)
-- [演習1.36](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/PRML-1.36.JPG?raw=true)
+- [演習1.28-1.29](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex1.28-29.pdf?raw=true)
+- [演習1.34](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex1.34.pdf?raw=true)
+- [演習1.35](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex1.35.pdf?raw=true)
+- [演習1.36](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex1.36.JPG?raw=true)
 
 第2章 (2.1～2.2) 担当 @americiumian
 ----
