@@ -15,5 +15,9 @@
 (2.3.4～2.3.9) 担当 @sa__i
 ----
 
+- [スライド](http://www.slideshare.net/YuukiSaitoh/prml2-3)
+
 2.4,2.5 担当 @americiumian
 ----
+
+- [スライド (p.31〜)](http://www.slideshare.net/TakutoKimura/prml21-222425)
