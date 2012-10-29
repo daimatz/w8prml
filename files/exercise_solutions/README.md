@@ -29,3 +29,4 @@
 - [演習2.19](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex2.19.pdf?raw=true)
 - [演習2.23](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex2.23.pdf?raw=true)
 - [演習2.24](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex2.24.JPG?raw=true)
+- [演習2.41-2.42](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex2.41-2.42.pdf?raw=true)
