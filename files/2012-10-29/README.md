@@ -1,4 +1,3 @@
-
 第5回 W8 PRML 読書会
 ====
 
@@ -14,7 +13,7 @@
 2.5 担当 @americiumian
 ----
 
-- [スライド (p.31〜)](http://www.slideshare.net/TakutoKimura/prml21-222425)
+- [スライド (p.61〜)](http://www.slideshare.net/TakutoKimura/prml21-222425)
 
 3.1〜3.3 担当 @himajin0164
 ----
