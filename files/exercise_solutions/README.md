@@ -33,3 +33,8 @@
 - [演習2.53-2.54](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex2.53-2.54.pdf?raw=true)
 - [演習2.55](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex2.55.pdf?raw=true)
 - [演習2.61](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex2.61.pdf?raw=true)
+
+第3章
+----
+- [演習3.1](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex3.1.pdf?raw=true)
+
