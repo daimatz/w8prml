@@ -10,7 +10,12 @@
 - [演習3.4](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex3.4.pdf?raw=true)
 - [演習3.9](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex3.9.pdf?raw=true)
 
-3.4 担当 @Kyamachang
+3.4-3.6 担当 @Kyamachang
 ----
 
 - [スライド (p.160～)](https://github.com/daimatz/w8prml/blob/master/files/2012-11-12/prml34-36.pdf?raw=true)
+
+4.1-4.2 担当 @masa_kzm
+----
+
+- [スライド (p.177～)](https://github.com/daimatz/w8prml/blob/master/files/2012-11-12/prml4-1-4-2.pdf?raw=true)
