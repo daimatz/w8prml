@@ -1,0 +1,10 @@
+*.o
+.DS_Store
+tags
+TAGS
+*.dSYM
+*.log
+*.dvi
+*.aux
+*.elc
+
