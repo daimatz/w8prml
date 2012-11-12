@@ -39,6 +39,7 @@
 - [演習3.1](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex3.1.pdf?raw=true)
 - [演習3.2](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex3.2.pdf?raw=true)
 - [演習3.4](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex3.4.pdf?raw=true)
+- [演習3.5](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex3.5.pdf?raw=true)
 - [演習3.6](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex3.6.pdf?raw=true)
 - [演習3.9](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex3.9.pdf?raw=true)
 
