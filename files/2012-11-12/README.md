@@ -1,4 +1,4 @@
-第5回 W8 PRML 読書会
+第6回 W8 PRML 読書会
 ====
 
 演習問題
@@ -8,7 +8,9 @@
 - [演習3.1](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex3.1.pdf?raw=true)
 - [演習3.2](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex3.2.pdf?raw=true)
 - [演習3.4](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex3.4.pdf?raw=true)
-- [演習3.9](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex3.9.pdf?raw=true)
+- [演習3.5](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex3.5.pdf?raw=true)
+- [演習3.6](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex3.6.pdf?raw=true)
+- [演習3.9](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex3.9-2.pdf?raw=true)
 
 3.4-3.6 担当 @Kyamachang
 ----
