@@ -13,9 +13,9 @@
 2.5 担当 @americiumian
 ----
 
-- [スライド (p.61〜)](http://www.slideshare.net/TakutoKimura/prml21-222425)
+- [スライド (p.61～)](http://www.slideshare.net/TakutoKimura/prml21-222425)
 
-3.1〜3.3 担当 @himajin0164
+3.1～3.3 担当 @himajin0164
 ----
 
-- スライド
+- [スライド ](http://www.slideshare.net/TakutoKimura/PRML3.pdf)
