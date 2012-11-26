@@ -9,7 +9,7 @@
 4.1-4.2 担当 @masa_kzm
 ----
 
-- [スライド (p.177～)](https://github.com/daimatz/w8prml/blob/master/files/2012-11-26/prml4-1-4-2.pdf?raw=true)
+- [スライド (p.177～)](https://github.com/daimatz/w8prml/blob/master/files/2012-11-26/prml4-12v2.pdf?raw=true)
 
 4.3-4.4 担当 @amoO_O
 ----
