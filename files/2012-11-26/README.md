@@ -14,5 +14,5 @@
 4.3-4.4 担当 @amoO_O
 ----
 
-- [スライド (p.202～)](https://github.com/daimatz/w8prml/blob/master/files/2012-11-26/prml4-3-4-4.pdf?raw=true)
+- [スライド (p.202～)](https://github.com/daimatz/w8prml/blob/master/files/2012-11-26/prml4-3-4-5.pdf?raw=true)
 
