@@ -1,4 +1,3 @@
-
 演習問題解答集
 ====
 
@@ -48,4 +47,5 @@
 
 第4章
 ----
+- [演習4.1](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex4.1.pdf?raw=true)
 - [演習4.7](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex4.7.pdf?raw=true)
