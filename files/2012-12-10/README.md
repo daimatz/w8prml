@@ -6,7 +6,7 @@
 
 - [演習4.7](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex4.7.pdf?raw=true)
 
-- 回答へのリンクが張られます
+
 
 4.4-4.5 担当 @amoO_O
 ----
